@@ -27,6 +27,7 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('org.springframework.boot:spring-boot-devtools')
+	compile('com.amazonaws:aws-java-sdk:1.9.2')
 
 	compile('io.jsonwebtoken:jjwt:0.7.0')
 
